@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+4 AND gates are connected to pairs of inputs eg(IN0 and IN1 )
 
 ## How to test
 
-Explain how to use your project
+outputs has to match with the indicated gate logic (AND gate ).
 
 ## External hardware
 
